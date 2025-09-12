@@ -34,6 +34,7 @@ from vllm.transformers_utils.configs.ultravox import UltravoxConfig
 __all__ = [
     "ChatGLMConfig",
     "DeepseekVLV2Config",
+    "DotsOCRConfig",
     "EAGLEConfig",
     "RWConfig",
     "JAISConfig",
